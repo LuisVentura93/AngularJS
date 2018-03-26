@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1, 
+        "name": "Superman", 
+        "realName": "Clark Kent", 
+        "description": "A wealthy socialite, and the owner of Wayne Enterprises. He dedicates himself to protecting Gotham City from its criminal underworld as a highly trained, masked vigilante equipped with various tools and weapons.", 
+        "image": "../../assets/img/superman.png"
+    },
+    {
+        "id": 2, 
+        "name": "Batman", 
+        "realName": "Bruce Wayne", 
+        "description": "A member of, and inspiration for, the Justice League, a Kryptonian survivor, and a journalist for the Daily Planet based in Metropolis.",
+        "image": "../../assets/img/batman.png"
+    },
+    {
+        "id": 3, 
+        "name": "Robin", 
+        "realName": "Robin John Blake", 
+        "description": "A young police officer whose instincts lead him to believe that there is trouble on the horizon and is promoted to detective by Gordon when the elder cop saw something of himself within the younger. lake represents the idealism that Gordon and Bruce Wayne once held, but soon lost in their battle against crime in the city.", 
+        "image": "../../assets/img/robin.png" 
+    },
+    {
+        "id": 4, 
+        "name": "Flash", 
+        "realName": "Barry Allen", 
+        "description": "A Central City University student, who can move at superhuman speeds with his ability to tap into the Speed Force.", 
+        "image": "../../assets/img/flash.png"
+    },
+    {
+        "id": 5, 
+        "name": "Green Lantern", 
+        "realName": "Hal JordanWon", 
+        "description": "Hal Jordan, a cocky test pilot working at Ferris Aircraft, is chosen by the ring and transported to the crash site, where the dying Abin Sur appoints him a Green Lantern, telling him to take the lantern and speak the oath. Jordan says the oath and is whisked away to the Green Lantern Corps home planet of Oa, where he meets and trains with veteran Corps members Tomar-Re, Kilowog, and Corps leader Sinestro, who believes he is unfit and fearful. ", 
+        "image": "../../assets/img/green lantern.png"
+    },
+    {
+        "id": 6, 
+        "name": "Wonder Woman", 
+        "realName": "Diana de Temiscira", 
+        "description": "An antiquities dealer, acquaintance of Wayne, and an immortal Amazonian warrior, who is the crown princess of Themyscira and daughter of Hippolyta and Zeus. She is endowed with metahuman attributes and abilities inherited from her parents.", 
+        "image": "../../assets/img/wonder woman.png"
+    },
+    {
+        "id": 7, 
+        "name": "Aquaman", 
+        "realName": "Arthur Curry", 
+        "description": "The heir to the throne of the undersea nation of Atlantis. His metahuman aquatic abilities and physical attributes originate from his Atlantean physiology.", 
+        "image": "../../assets/img/aquaman.png"
+    },
+    {
+        "id": 8, 
+        "name": "Cyborg", 
+        "realName": "Victor Stone", 
+        "description": "A former college athlete who, after being cybernetically reconstructed after a nearly fatal car accident, is turned into a techno-organic being enhanced by reactive, adaptive biomimetic alien technology. Fisher portrays the character through the use of motion capture for the cybernetic portion of his body.", 
+        "image": "../../assets/img/Cyborg.png" 
+    }
+]

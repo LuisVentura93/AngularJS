@@ -1,0 +1,45 @@
+body, html{
+    text-align: center;
+    /*background-color: #eeeeee;*/
+    background-image: url("../files/img/angular-2.jpg");
+}
+
+ul{
+    text-align: center;
+}
+
+h1{
+    color: #FFFFFF;
+}
+
+#whatever{
+    color: red;
+}
+
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0065FF;
+}
+
+.hijosmenu {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: red;
+}
